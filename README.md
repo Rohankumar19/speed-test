@@ -48,7 +48,7 @@ Welcome to the Typing Speed Test Game! This is a simple web-based game developed
 
 **Credits:**
 
-- This game was developed by [Your Name].
+- This game was developed by Rohan Kumar.
 - Inspired by various typing speed test games available online.
 
 **License:**
